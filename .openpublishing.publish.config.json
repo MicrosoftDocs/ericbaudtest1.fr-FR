@@ -1,17 +1,5 @@
 {
-  "docsets_to_publish": [
-    {
-      "docset_name": "testdoctset",
-      "build_source_folder": "testdoctset",
-      "build_output_subfolder": "testdoctset",
-      "locale": "fr-FR",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": false,
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    }
-  ],
+  "docsets_to_publish": [],
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [
